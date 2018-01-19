@@ -1,0 +1,11 @@
+xtrain : xtrain.txt
+Ytrain : ytrain.txt
+xtest :xtest.txt
+ytest :ytest.txt
+subtest:subject _test.txt
+subtrain:subject_train.txt
+feat : features.txt
+finaldat : The final data after cleaning the raw data
+imeandat : mean of  extracted data
+istdmean : standard mean of the extracted data 
+main : file formed after rbind of Xtrain and Xtest
